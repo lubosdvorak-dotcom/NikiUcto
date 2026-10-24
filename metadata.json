@@ -1,0 +1,6 @@
+{
+  "name": "ÚčtoMaturita — Příprava k maturitě z účetnictví",
+  "description": "Interaktivní výuková a testovací platforma pro studenty 4. ročníku obchodních akademií zaměřená na přípravu k maturitě z účetnictví (T-účty, účtový rozvrh, souvztažnosti a maturitní testy).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
